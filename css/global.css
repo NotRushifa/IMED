@@ -1,0 +1,14 @@
+/*colors*/
+/* 60% of #C705FC - Dominant */
+/* 30% of #01082E - Secondary */
+/* 10% of #ffffff - Accent */
+
+:root {
+  --dominantColor: #c705fc; /* var(--dominantColor) !important; */
+  --secdondaryColor: #01082e; /* var(--secondaryColor) !important; */
+  --accentColor: #ffffff; /* var(--accentColor) !important; */
+
+  /*box shadow*/
+  /* vertical, horizontal, blur,  */
+  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.4); /* var(--boxShadow) !important; */
+}
